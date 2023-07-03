@@ -21,7 +21,6 @@ const TotalLoginPage = () => {
         <div className="signin-signup">
           <SignIn />
           <SignUp />
-          {/* handleSignInClick={handleSignInClick} */}
         </div>
         <PanelContainer
           handleSignUpClick={handleSignUpClick}
